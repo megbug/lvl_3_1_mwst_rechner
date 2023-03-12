@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin: 20px 0;
+}
+
+h3 {
+    font-size: 1.8rem;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 1.4rem;
+}
+
+main h1 {
+    color: grey;
+    margin: 5vh auto 5vh auto;
+    width: 30%;
+}
+
+main form fieldset {
+    margin: 0 auto;
+    padding: 20px; 
+    width: 30%;
+    background-color: #F3F6F8;
+    border-color: blue;
+    border-radius: 4px;
+}
+
+main form fieldset div button {
+    padding: 5px 15px;
+    display: block;
+    width: 100%;
+    background-color: dodgerblue;
+    outline-style: none;
+    border: 2px solid blue;
+    border-radius: 2px;
+}
+
+main form fieldset label, input {
+    font-size: 1.4rem;
+    margin: 10px 0;
+}
+
